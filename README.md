@@ -32,6 +32,7 @@ Se o login for bem-sucedido, uma mensagem de "Login OK" é exibida e o usuário 
 
 - **ViewGroup:**
   - **LinearLayout:** Utilizado para organizar elementos linearmente.
+  - **View Binding:** Vinculação eficiente das views do layout.
 
 - **Components de UI:**
   - **TextView:** Para exibição de textos.
@@ -42,7 +43,7 @@ Se o login for bem-sucedido, uma mensagem de "Login OK" é exibida e o usuário 
 
 - **Intent Explicita:** Utilizada para abrir a segunda Activity e para a navegação entre telas.
 
-- **View Binding:** Vinculação eficiente das views do layout.
+
 
 
 
